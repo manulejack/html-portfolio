@@ -15,7 +15,7 @@ body{
 /*   position: fixed; */
     position: absolute;
   top: 0;
-  left: 500px;
+  left: 5px;
   width: 200px;
   height: 300px;
 }
