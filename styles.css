@@ -1,5 +1,6 @@
 html,
 body{
+    display: flex;
     background: linear-gradient(0deg, rgba(45,112,182,1) 0%, rgba(88,196,222,1) 39%, rgba(221,234,242,1) 49.5%, rgba(249,175,210,1) 50%, rgba(81,163,213,1) 99%);
 
 }
